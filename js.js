@@ -1,6 +1,6 @@
 document.addEventListener('DOMContentLoaded',function(event){
 
-    var dataText = [ "Hey Bebi.", "Welcome.", "Are you ready?", "This website contains a link to direct you in the right path.", "In order to locate it, you must find it.", "start now."];
+    var dataText = [ "Hey Baby.", "Welcome.", "Are you ready?", "This website contains a link to direct you in the right path.", "In order to locate it, you must find it.", "start now."];
 
     function typeWriter(text, i, fnCallback) {
 
